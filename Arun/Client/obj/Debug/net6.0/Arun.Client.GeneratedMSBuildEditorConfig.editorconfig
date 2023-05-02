@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Arun.Client
+build_property.RootNamespace = Arun.Client
+build_property.ProjectDir = C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Pages/About.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-pxx1qthbuy
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Pages/Blogs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-18g1yp041h
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Pages/BlogsInner.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmxvZ3NJbm5lci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-kv0spezz6n
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Pages/Connect.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ubmVjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-l55b374np2
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-chnfz4cb2r
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Pages/Speakingdemo1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3BlYWtpbmdkZW1vMS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-8u7kke8x5t
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Pages/Talktopics.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGFsa3RvcGljcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-tpd00r0mvh
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Pages/Testimonials.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVzdGltb25pYWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-g0pjtbr3ke
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-o8yqq9yv2r
+
+[C:/Users/aruna/Downloads/Arun WebsiteSecond/Arun Website/Arun/Arun/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-twznx6smpt

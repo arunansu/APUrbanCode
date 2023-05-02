@@ -1,0 +1,36 @@
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.deps.json
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.dll
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.pdb
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.AssemblyInfo.cs
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.dll
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\refint\Arun.Shared.dll
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.pdb
+C:\Users\pc\Desktop\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\ref\Arun.Shared.dll
+E:\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.deps.json
+E:\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.dll
+E:\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.pdb
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.csproj.AssemblyReference.cache
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.AssemblyInfoInputs.cache
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.AssemblyInfo.cs
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.csproj.CoreCompileInputs.cache
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.dll
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\refint\Arun.Shared.dll
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.pdb
+E:\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\ref\Arun.Shared.dll
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.deps.json
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.dll
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\bin\Debug\net6.0\Arun.Shared.pdb
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.csproj.AssemblyReference.cache
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.AssemblyInfoInputs.cache
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.AssemblyInfo.cs
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.csproj.CoreCompileInputs.cache
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.dll
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\refint\Arun.Shared.dll
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\Arun.Shared.pdb
+C:\Users\aruna\Downloads\Arun WebsiteSecond\Arun Website\Arun\Arun\Shared\obj\Debug\net6.0\ref\Arun.Shared.dll
